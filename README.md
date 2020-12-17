@@ -9,5 +9,5 @@ A language is a structured system of communication used by humans.
 <br>
 
 Presentations:
-- [resource-degradation-and-rural-livelihood](https://github.com/nitrece/resource-degradation-and-rural-livelihood)
-- [education-system-in-india](https://github.com/nitrece/education-system-in-india)
+- [Resource degradation and Rural livelihood](https://github.com/nitrece/resource-degradation-and-rural-livelihood)
+- [Education system in India](https://github.com/nitrece/education-system-in-india)
