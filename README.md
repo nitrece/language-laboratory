@@ -11,3 +11,5 @@ A language is a structured system of communication used by humans.
 Presentations:
 - [Resource degradation and Rural livelihood](https://github.com/nitrece/resource-degradation-and-rural-livelihood)
 - [Education system in India](https://github.com/nitrece/education-system-in-india)
+
+![](https://ga-beacon.deno.dev/G-ERJXRWVLBT:BGFjXiiDQ5-gqJoAeoZGqg/github.com/nitrece/language-laboratory)
